@@ -1,2 +1,2 @@
-# simple-jgroups-stack
-Simple jGroups implementation for stack
+# simple-jgroups
+Simple jGroups implementation for stack and set
